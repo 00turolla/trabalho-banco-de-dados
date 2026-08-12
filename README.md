@@ -10,5 +10,8 @@ Integrantes: Arthur (líder), Eyck, Julio, Vivian, Lucas, Pedro Takeo, Pedro Tur
 - Orientado a Grafos
 - Nuvem
 - Aplições praticas
-	- comercio eletronico
+	- Sistema Financeiro
+    - Comércio eletrônico
+    - Sistemas de saúde
     - Redes sociais
+- Segurança de acesso 
