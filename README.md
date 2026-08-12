@@ -8,7 +8,12 @@ Integrantes: Arthur (líder), Eyck, Julio, Vivian, Lucas, Pedro Takeo, Pedro Tur
 - Banco de dados não relacional
 - Banco de dados relacional
 - Orientado a Grafos
+    - Vertices
+    - Arestas
+    - Desvantagens
 - Nuvem
+    - Vantagens
+    - O que é
 - Aplições praticas
 	- Sistema Financeiro
     - Comércio eletrônico
